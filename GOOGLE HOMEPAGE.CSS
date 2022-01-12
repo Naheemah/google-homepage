@@ -1,0 +1,130 @@
+body {
+    background-color: white;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow-x: hidden;
+}
+b {
+    font-family: 'Century Gothic';
+    font-size: 80px;
+}
+div {
+    padding-top: 30px;
+}
+.one {
+    color: blue;
+}
+.two {
+    color: red;
+}
+.three {
+    color: yellow;
+}
+.four {
+    color: blue;
+}
+.five {
+    color: green;
+}
+.six {
+    color: red;
+}
+
+p {
+    text-align: left;
+    color: gray;
+    margin-left: 40px;
+}
+ul li {
+    display: inline;
+    margin-right: 15px;
+    float: left;
+}
+ li a {
+    text-decoration: none;
+    color: gray;
+}
+.seven {
+    float: left;
+}
+.seven, .nine, .ten {
+    text-decoration: none;
+    padding-left: 20px;
+}
+.seven {
+    margin-left: 150px;
+    padding-left: 30px;
+}
+.eleven {
+    margin-right: 15px;
+    float: right;
+}
+footer {
+    background-color: gainsboro;
+    height: 102px;
+    width: 1370px;
+    padding: 15px 0px 0px 0px;
+    margin: 201px 0px 0px 0px;
+    box-sizing: border-box;
+    position: absolute;
+    align-content: center;
+    text-align: center;
+}
+input{
+    height: 40px;
+    margin-top: 3px;
+    border-radius: 20px;
+    border: 2px solid whitesmoke;
+}
+.twelve {
+    border-radius: 0px;
+    margin-left: 520px;
+}
+.thirteen {
+    border-radius: 0px;
+}
+p.fourteen {
+    float: left;
+    padding-top: 20px;
+}
+ul.fifteen {
+    padding-top: 20px;
+}
+p.fourteen, ul.fifteen {
+    margin-right: 10px;
+}
+ul.fifteen a {
+    color: blue;
+}
+.seventeen {
+    padding-left: 420px;
+    margin: 0px;
+}
+nav li a {
+    color: black;
+}
+.eighteen {
+    margin-left: 1070px;
+    margin-top: 0px;
+    padding: 0px;
+}
+.twenty, .twentyone {
+    margin-top: 20px;
+}
+:focus {
+    padding-left: 40px;
+}
+nav li a [type="submit"] {
+    width: 100px;
+    height: 40px;
+    color: #ffffff;
+    background-color: blue;
+    border-radius: 5px;
+    margin-top: 10px;
+    padding: 0px;
+}
